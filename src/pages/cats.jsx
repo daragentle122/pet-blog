@@ -155,7 +155,7 @@ export default function Cats() {
             <div class="d-flex justify-content-center mt-5">
                 <div class="col-sm-2 col-md-2 col-lg-2 col-xl-2">
                     <Card style={{ width: '20rem' }}>
-                        <Card.Img variant="top" src={home} />
+                        <Card.Img variant="top" src={cat5} />
                         <Card.Body style={{ height: '120px', paddingTop: '20px' }}>
                             <Card.Title style={{ textAlign: 'center', color: '#325d3f' }}>How to defrost raw dog and raw cat food</Card.Title>
                             <Card.Text style={{ textAlign: 'center', marginTop: '14px' }}>
@@ -167,7 +167,7 @@ export default function Cats() {
                 <div class="col-sm-1 col-md-1 col-lg-1 col-xl-1"></div>
                 <div class="col-sm-2 col-md-2 col-lg-2 col-xl-2">
                     <Card style={{ width: '20rem' }}>
-                        <Card.Img variant="top" src={home} />
+                        <Card.Img variant="top" src={cat7} />
                         <Card.Body style={{ height: '120px', paddingTop: '20px' }}>
                             <Card.Title style={{ textAlign: 'center', color: '#325d3f' }}>How can I quickly defrost my frozen raw dog and cat food?</Card.Title>
                             <Card.Text style={{ textAlign: 'center', marginTop: '14px' }}>
@@ -179,7 +179,7 @@ export default function Cats() {
                 <div class="col-sm-1 col-md-1 col-lg-1 col-xl-1"></div>
                 <div class="col-sm-2 col-md-2 col-lg-2 col-xl-2">
                     <Card style={{ width: '20rem' }}>
-                        <Card.Img variant="top" src={home} />
+                        <Card.Img variant="top" src={cat9} />
                         <Card.Body style={{ height: '120px', paddingTop: '20px' }}>
                             <Card.Title style={{ textAlign: 'center', color: '#325d3f' }}>Do I need separate utensils for serving the food? </Card.Title>
                             <Card.Text style={{ textAlign: 'center', marginTop: '14px' }}>
@@ -191,7 +191,7 @@ export default function Cats() {
                 <div class="col-sm-1 col-md-1 col-lg-1 col-xl-1"></div>
                 <div class="col-sm-2 col-md-2 col-lg-2 col-xl-2">
                     <Card style={{ width: '20rem' }}>
-                        <Card.Img variant="top" src={home} />
+                        <Card.Img variant="top" src={cat10} />
                         <Card.Body style={{ height: '120px', paddingTop: '20px' }}>
                             <Card.Title style={{ textAlign: 'center', color: '#325d3f' }}>What is the best way to serve raw dog and cat food?</Card.Title>
                             <Card.Text style={{ textAlign: 'center', marginTop: '14px' }}>
