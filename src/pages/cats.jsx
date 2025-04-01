@@ -16,16 +16,12 @@ export default function Cats() {
     return (
         <>
             <div class="container">
-                <div class="text-section">
-                    <div class="breadcrumb">
-                        <a href="#">Home</a> &gt; <a href="#">Raw Feeding</a> &gt; How To Defrost And Serve Raw Dog And Cat Food
-                    </div>
-                    <h1 class="title">
-                        HOW TO DEFROST AND SERVE RAW DOG AND CAT FOOD
+                <div class="text-section" style={{ textAlign: 'center' }}>
+                    <h1 class="title" style={{ fontSize: '48px' }}>
+                        TOP 10 MOST FRIENDLIEST CAT BREEDS 2025 <br />(PERFECT COMPANION)
                     </h1>
-                    <p class="author">Written By Jude McCoy</p>
-                    <p class="date">24TH MARCH 2025</p>
-                    <p class="date">6 Min Read</p>
+                    <p class="author">Written By Titya</p>
+                    <p class="date">1ST APRIL 2025</p>
                 </div>
                 <div class="image-section">
                     <div class="image-placeholder">
@@ -33,7 +29,7 @@ export default function Cats() {
                     </div>
                 </div>
             </div>
-            <div style={{display: 'flex', marginTop: '100px'}}>
+            <div style={{ display: 'flex', marginTop: '100px' }}>
                 <div class="image-section">
                     <div class="image-placeholder">
                         <img src={cat1} alt="Labrador" />
@@ -156,55 +152,55 @@ export default function Cats() {
             </div>
 
             <div class="text-center mt-4"><h1 class="title">YOU MAY ALSO LIKE</h1></div>
-        <div class="d-flex justify-content-center mt-5">
-            <div class="col-sm-2 col-md-2 col-lg-2 col-xl-2">
-                <Card style={{ width: '20rem' }}>
-                    <Card.Img variant="top" src={home} />
-                    <Card.Body style={{ height: '120px' , paddingTop: '20px'}}>
-                        <Card.Title style={{ textAlign: 'center' , color: '#325d3f'}}>How to defrost raw dog and raw cat food</Card.Title>
-                        <Card.Text style={{ textAlign: 'center' , marginTop: '14px'}}>
-                        4th January 2025
-                        </Card.Text>
-                    </Card.Body>
-                </Card>
+            <div class="d-flex justify-content-center mt-5">
+                <div class="col-sm-2 col-md-2 col-lg-2 col-xl-2">
+                    <Card style={{ width: '20rem' }}>
+                        <Card.Img variant="top" src={home} />
+                        <Card.Body style={{ height: '120px', paddingTop: '20px' }}>
+                            <Card.Title style={{ textAlign: 'center', color: '#325d3f' }}>How to defrost raw dog and raw cat food</Card.Title>
+                            <Card.Text style={{ textAlign: 'center', marginTop: '14px' }}>
+                                4th January 2025
+                            </Card.Text>
+                        </Card.Body>
+                    </Card>
+                </div>
+                <div class="col-sm-1 col-md-1 col-lg-1 col-xl-1"></div>
+                <div class="col-sm-2 col-md-2 col-lg-2 col-xl-2">
+                    <Card style={{ width: '20rem' }}>
+                        <Card.Img variant="top" src={home} />
+                        <Card.Body style={{ height: '120px', paddingTop: '20px' }}>
+                            <Card.Title style={{ textAlign: 'center', color: '#325d3f' }}>How can I quickly defrost my frozen raw dog and cat food?</Card.Title>
+                            <Card.Text style={{ textAlign: 'center', marginTop: '14px' }}>
+                                4th January 2025
+                            </Card.Text>
+                        </Card.Body>
+                    </Card>
+                </div>
+                <div class="col-sm-1 col-md-1 col-lg-1 col-xl-1"></div>
+                <div class="col-sm-2 col-md-2 col-lg-2 col-xl-2">
+                    <Card style={{ width: '20rem' }}>
+                        <Card.Img variant="top" src={home} />
+                        <Card.Body style={{ height: '120px', paddingTop: '20px' }}>
+                            <Card.Title style={{ textAlign: 'center', color: '#325d3f' }}>Do I need separate utensils for serving the food? </Card.Title>
+                            <Card.Text style={{ textAlign: 'center', marginTop: '14px' }}>
+                                4th January 2025
+                            </Card.Text>
+                        </Card.Body>
+                    </Card>
+                </div>
+                <div class="col-sm-1 col-md-1 col-lg-1 col-xl-1"></div>
+                <div class="col-sm-2 col-md-2 col-lg-2 col-xl-2">
+                    <Card style={{ width: '20rem' }}>
+                        <Card.Img variant="top" src={home} />
+                        <Card.Body style={{ height: '120px', paddingTop: '20px' }}>
+                            <Card.Title style={{ textAlign: 'center', color: '#325d3f' }}>What is the best way to serve raw dog and cat food?</Card.Title>
+                            <Card.Text style={{ textAlign: 'center', marginTop: '14px' }}>
+                                4th January 2025
+                            </Card.Text>
+                        </Card.Body>
+                    </Card>
+                </div>
             </div>
-            <div class="col-sm-1 col-md-1 col-lg-1 col-xl-1"></div>
-            <div class="col-sm-2 col-md-2 col-lg-2 col-xl-2">
-                <Card style={{ width: '20rem' }}>
-                    <Card.Img variant="top" src={home} />
-                    <Card.Body style={{ height: '120px' , paddingTop: '20px'}}>
-                        <Card.Title style={{ textAlign: 'center' , color: '#325d3f' }}>How can I quickly defrost my frozen raw dog and cat food?</Card.Title>
-                        <Card.Text style={{ textAlign: 'center' , marginTop: '14px'}}>
-                        4th January 2025
-                        </Card.Text>
-                    </Card.Body>
-                </Card>
-            </div>
-            <div class="col-sm-1 col-md-1 col-lg-1 col-xl-1"></div>
-            <div class="col-sm-2 col-md-2 col-lg-2 col-xl-2">
-                <Card style={{ width: '20rem' }}>
-                    <Card.Img variant="top" src={home} />
-                    <Card.Body style={{ height: '120px' , paddingTop: '20px'}}>
-                        <Card.Title style={{ textAlign: 'center' , color: '#325d3f'}}>Do I need separate utensils for serving the food? </Card.Title>
-                        <Card.Text style={{ textAlign: 'center' , marginTop: '14px'}}>
-                        4th January 2025
-                        </Card.Text>
-                    </Card.Body>
-                </Card>
-            </div>
-            <div class="col-sm-1 col-md-1 col-lg-1 col-xl-1"></div>
-            <div class="col-sm-2 col-md-2 col-lg-2 col-xl-2">
-                <Card style={{ width: '20rem' }}>
-                    <Card.Img variant="top" src={home} />
-                    <Card.Body style={{ height: '120px' , paddingTop: '20px'}}>
-                        <Card.Title style={{ textAlign: 'center' , color: '#325d3f'}}>What is the best way to serve raw dog and cat food?</Card.Title>
-                        <Card.Text style={{ textAlign: 'center' , marginTop: '14px'}}>
-                        4th January 2025
-                        </Card.Text>
-                    </Card.Body>
-                </Card>
-            </div>
-        </div>
         </>
     );
 }

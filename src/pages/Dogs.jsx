@@ -15,16 +15,12 @@ export default function Dogs() {
     return (
         <>
             <div class="container">
-                <div class="text-section">
-                    <div class="breadcrumb">
-                        <a href="#">Home</a> &gt; <a href="#">Raw Feeding</a> &gt; How To Defrost And Serve Raw Dog And Cat Food
-                    </div>
-                    <h1 class="title">
-                        HOW TO DEFROST AND SERVE RAW DOG AND CAT FOOD
+                <div class="text-section" style={{textAlign: 'center'}}>
+                    <h1 class="title" style={{fontSize: '48px'}}>
+                        TOP 10 MOST FRIENDLIEST DOG BREEDS 2025 <br />(PERFECT COMPANION)
                     </h1>
-                    <p class="author">Written By Jude McCoy</p>
-                    <p class="date">24TH MARCH 2025</p>
-                    <p class="date">6 Min Read</p>
+                    <p class="author">Written By Titya</p>
+                    <p class="date">1ST APRIL 2025</p>
                 </div>
                 <div class="image-section">
                     <div class="image-placeholder">
